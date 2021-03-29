@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335673882665",
+    "project_id": "final-zerocry-cecfe",
+    "storage_bucket": "final-zerocry-cecfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335673882665:android:0b061b052485c6fc444438",
+        "android_client_info": {
+          "package_name": "com.example.final_zerocry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335673882665-llbvpgsfosub8e297qp2bontjsi52htk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPKWJJVlYuIrMJ63P-QYBGf-iuXJrSXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335673882665-llbvpgsfosub8e297qp2bontjsi52htk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
